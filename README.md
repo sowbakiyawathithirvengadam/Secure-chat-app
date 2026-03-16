@@ -1,10 +1,12 @@
 SECURE CHAT APPLICATION USING PYTHON
+
 This project is a Secure Chat Application built using Python with Tkinter GUI and Socket Programming. The application allows multiple users to communicate with each other in real time through a client-server architecture.
 The chat system includes a login interface, real-time message transmission, emoji support, and a graphical chat interface similar to modern messaging applications. It demonstrates concepts from network programming, GUI development, and basic cybersecurity practices.
 The server manages multiple clients simultaneously and broadcasts messages between connected users. Each client runs a Tkinter-based chat interface where users can send and receive messages instantly.
 This project is useful for understanding how messaging systems work internally and how secure communication can be implemented using Python.
 
 FEATURES
+
 Real-time messaging between multiple users
 Graphical chat interface using Tkinter
 Username and password login system
@@ -14,6 +16,7 @@ Scrollable chat window with message bubbles
 Multi-client support using threading
 
 TECHNOLOGIES USED
+
 Python
 Tkinter (GUI)
 Socket Programming
